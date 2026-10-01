@@ -51,6 +51,16 @@
 ## 文件列表（Documents）
 
 
+* 簡報
+  * [育秀盃及FuStar未來之星](育秀盃競賽簡報.pdf)
+  * [WAICY](WAICY簡報.pdf)
+* 育秀盃作品介紹
+  * [介紹圖](育秀盃作品介紹圖.jpg)
+  * [Demo影片](育秀盃＿Demo.mp4)
+* 參賽證明以及獎狀
+  * [育秀盃](育秀盃得獎獎狀.jpg)
+  * [FuStar未來之星](FuStar未來之星 參賽證明.pdf)
+  * [WAICY](WAICY參賽證明.pdf)
 
 ---
 
