@@ -3,8 +3,12 @@
 ## 基本資訊（Basic Information）
 
 姓名（Name）：劉宇博
-比賽名稱（Competition）：第22屆育秀盃（主要）、
-作品名稱（Project Title）：
+
+
+比賽名稱（Competition）：第22屆育秀盃（主要）、FuStar未來之星科學創意挑戰賽、WAICY
+
+
+作品名稱（Project Title）：《AIPet 居家智慧寵物照顧系統》、《FurMind 毛伴智護》、《AIPet: Intelligent Home Pet Care System》
 
 ---
 
