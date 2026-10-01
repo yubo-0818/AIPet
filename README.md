@@ -56,7 +56,7 @@
   * [WAICY](WAICY簡報.pdf)
 * 育秀盃作品介紹
   * [介紹圖](育秀盃作品介紹圖.jpg)
-  * [Demo影片](育秀盃＿Demo.mp4)
+  * [Demo影片](育秀盃_Demo.mp4)
 * 參賽證明以及獎狀
   * [育秀盃](育秀盃得獎獎狀.jpg)
   * [FuStar未來之星](FuStar未來之星參賽證明.pdf)
