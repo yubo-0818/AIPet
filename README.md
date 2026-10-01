@@ -39,8 +39,7 @@
 ---
 
 ## 使用技術（Technologies Used）
-
-​* 前端介面開發：Python、Tkinter
+* 前端介面開發：Python、Tkinter
 * 電腦視覺與深度學習：Ultralytics YOLO11（搭配 Fine-tune 微調腳本與訓練資料集）、Webcam 影像輸入  
 * 生成式 AI 與語言模型：ChatGPT（經由 API 串接與 Prompt 提示詞工程）
 * 硬體控制與感測器：Arduino Nano 微控制器、溫度計、濕度計
