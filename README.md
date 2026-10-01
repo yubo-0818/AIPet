@@ -59,7 +59,7 @@
   * [Demo影片](育秀盃＿Demo.mp4)
 * 參賽證明以及獎狀
   * [育秀盃](育秀盃得獎獎狀.jpg)
-  * [FuStar未來之星](FuStar未來之星 參賽證明.pdf)
+  * [FuStar未來之星](FuStar未來之星參賽證明.pdf)
   * [WAICY](WAICY參賽證明.pdf)
 
 ---
